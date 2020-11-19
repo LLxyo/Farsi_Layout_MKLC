@@ -5,16 +5,16 @@ When you want to type a symbol, you can type on your original language keyboard 
 
 # Layout
 ### Default
-<image src="Screenshot/default.png" width="80%">
+<image src="Screenshot/default.png" width="100%">
 
 ### Pressing shift key
-<image src="Screenshot/pressing_shift.png" width="80%">
+<image src="Screenshot/pressing_shift.png" width="100%">
 
 ### Pressing ctrl key & alt key
-<image src="Screenshot/pressing_ctrl+alt.png" width="80%">
+<image src="Screenshot/pressing_ctrl+alt.png" width="100%">
 
 ### Pressing shit key, ctrl key & alt key
-<image src="Screenshot/pressing_shift+ctrl+alt.png" width="80%">
+<image src="Screenshot/pressing_shift+ctrl+alt.png" width="100%">
 
 # Unique symbols for Farsi
 |Symbol|Key|Name|Description|
